@@ -8,6 +8,10 @@ https://elmas3.github.io/mao-seminar/
 エルマス
 わかば
 
+テスト１
+テスト２
+テスト３
+
 # ディレクトリ構成
 ```
 seminar/
